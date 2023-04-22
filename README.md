@@ -30,6 +30,11 @@ You can also preprocess raw datasets downloaded from public links by running `.i
 - You can record performance and loss values by setting `wandb`. 
 
 
+## Reference
+- [SRGNN](https://github.com/CRIPAC-DIG/SR-GNN)
+- [NISER](https://github.com/johnny12150/NISER)
+- [CORE](https://github.com/RUCAIBox/CORE) 
+
 
 ## Citation
 Please cite our paper if you use the code:
