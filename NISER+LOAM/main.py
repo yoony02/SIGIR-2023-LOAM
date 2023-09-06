@@ -11,6 +11,8 @@ from config import opt
 from model import *
 from utils import Data, EarlyStopping, init_seed
 
+## main file of the NISER+LOAM
+
 
 print(opt)
 init_seed(opt.seed)
