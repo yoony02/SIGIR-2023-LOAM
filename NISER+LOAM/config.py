@@ -44,6 +44,7 @@ def parse_args():
     # for TSM
     parser.add_argument('--mixup_lam', type=float, default=0.8)
     parser.add_argument('--sim_type', type=str, default='cosine', help='cosine/jaccard/random')
+    parser.add_argument('--misc', type=bool, default=False)
     return parser.parse_args()
 
 opt = parse_args()
